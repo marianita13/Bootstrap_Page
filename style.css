@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+@import "../node_modules/bootstrap/scss/functions";
 
 #titulo{
-    font-family: 'Playfair Display SC', serif;
-    font-size: larger;
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 700;
 }
 #telefono{
     font-family: 'Edu NSW ACT Foundation', cursive;
-    font-size: large;
+    font-size: x-large;
 }
 span{
     color: black;
@@ -15,4 +17,19 @@ span{
 li{
     list-style:none;
     font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: rgb(255, 178, 35);
+}
+
+hr{
+    width: 80%;
+    border-radius: 8px;
+}
+.contenedor2{
+    background-color: rgba(255, 166, 0, 0.479);
+}
+.accordion-body li{
+    list-style: circle;
 }
