@@ -65,3 +65,62 @@ hr{
 #buttonT{
     background-color: pink;
 }
+
+.contenedorH{
+    background-color: rgb(154, 191, 247);
+}
+
+#buttonH{
+    background-color: rgb(181, 255, 166);
+}
+
+#fondo2{
+    background-color: rgb(141, 241, 241);
+}
+
+#contact2{
+    color: rgb(49, 49, 255);
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 400;
+}
+
+#fondo3{
+    background-color: rgba(244, 162, 255, 0.877);
+}
+
+#contact3{
+    color: rgb(123, 17, 245);
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 400;
+}
+
+#niños{
+    color: rgb(1, 159, 250);
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 400;
+}
+
+.contenedorN{
+    background-color: rgb(255, 236, 196);
+}
+
+#niñas{
+    color: rgb(250, 1, 196);
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 400;
+}
+
+#fondo4{
+    background-color: rgba(233, 150, 122, 0.363);
+}
+
+#contact4{
+    color: rgb(255, 83, 83);
+    font-family: 'Arvo', serif;
+    font-size:xx-large;
+    font-weight: 400;
+}
